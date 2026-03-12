@@ -1,6 +1,8 @@
-<!-- Cedarwood Image Header -->
+<!-- Cedarwood Image Header 
 
 ![Cedarwood Insights Image](/assets/cedarwood.png)
+
+-->
 
 <!-- Greetings -->
 
